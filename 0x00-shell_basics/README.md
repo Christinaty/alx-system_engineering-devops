@@ -1,1 +1,1 @@
-delete ~
+tree directory
