@@ -1,1 +1,1 @@
-life is a series of commands, not periods
+School magic
