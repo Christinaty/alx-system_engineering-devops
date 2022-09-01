@@ -1,1 +1,1 @@
-html extension
+file extension
