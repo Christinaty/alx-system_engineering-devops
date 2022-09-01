@@ -1,1 +1,1 @@
-symbolic link
+html extension
