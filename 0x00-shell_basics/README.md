@@ -1,1 +1,1 @@
-tree directory
+life is a series of commands, not periods
