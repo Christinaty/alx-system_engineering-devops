@@ -1,2 +1,3 @@
 #!/bin/bash
-chpwn -from=guillaume betty hello
+chpwn --from=guillaume betty hello
+chown --from=guillaume betty hello
